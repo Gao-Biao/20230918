@@ -1,0 +1,527 @@
+
+1. RNA-Seq to probe transcription of patient-derived organotypic colorectal cancer.
+(Submitter supplied) Patient-derived cancer organoids (PCOs) provide a platform to model resistant to targeted therapies. Following culture maturation, PCOs were treated with stepwise dose escalation of EGFR inhibitors. Cultures were started at 20% physiologic Cmax panitumumab (46ug/ml) and assessed for growth (normalized change in diameter at 96 hours). If cultures surpassed ≥20% growth, stepwise dose escalation was repeated with interval increase of 20% Cmax. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL24676 54 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE180nnn/GSE180480/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA748388
+Series		Accession: GSE180480	ID: 200180480
+
+2. High-throughput lncRNA sequencing profile of ovarian granulosa cells in polycystic ovary syndrome
+(Submitter supplied) Purpose:To examine different expression profiles of lncRNAs and mRNAs in ovarian granulosa cells (GCs) in PCOS patients and controls Patients:6 GCs samples in each group were subjected to high-thoughput sequencing Results:54,615 lncRNAs and 123,141 mRNAs were detected in this high-thoughput sequencing, and we identified 1049 differential expressed lncRNAs and 3246 mRNAs (fold-change≧2, P-value<0.05). more...
+Organism:	Homo sapiens
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL24676 12 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE173nnn/GSE173160/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA724012
+Series		Accession: GSE173160	ID: 200173160
+
+3. Expression Profile Analysis of LncRNAs and mRNAs in Endometrium of Women with PCOS undergoing IVF-ET
+(Submitter supplied) To compare the expression levels of long non-coding RNA (lncRNA) and messenger RNA (mRNA) in endometrium between patients with Polycystic Ovary Syndrome （PCOS）and normal ovulation undergoing  in vitro fertilization-embryo transfer (IVF-ET） LncRNAs and mRNAs of endometrium were identified via RNA sequencing from 3 PCOS and 3 normal ovulation
+Organism:	Homo sapiens
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL16791 6 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE226nnn/GSE226146/
+Series		Accession: GSE226146	ID: 200226146
+
+4. mRNA/miRNA profiling of peripheral blood samples in PCOS patients
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Homo sapiens
+Type:		Expression profiling by array; Other
+Platforms: GPL10558 GPL8979 16 Samples
+FTP download: GEO ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE54nnn/GSE54250/
+Series		Accession: GSE54250	ID: 200054250
+
+5. TLDA miRNA expression profiling of peripheral blood samples in PCOS patients
+(Submitter supplied) In the present study through TLDA analysis we looked into the miRNA differential expression in peripheral blood of PCOS patients v/s control women. The results implicated that many signalling networks as  MAPK pathway, Androgen signaling, Insulin signaling and Immune signaling are regulated in peripheral blood of PCOS patients. The data indicate that there is generic PCOS specific gene expression in  peripheral blood of PCOS subjects which can reflect the same from other PCO tissues. more...
+Organism:	Homo sapiens
+Type:		Other
+Platform: GPL8979 8 Samples
+FTP download: GEO (CSV) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE54nnn/GSE54249/
+Series		Accession: GSE54249	ID: 200054249
+
+6. Microarray mRNA expression profiling of peripheral blood samples in PCOS patients
+(Submitter supplied) In the present study through microarray analysis we looked into the mRNA differential expression in peripheral blood of PCOS patients v/s control women. The results implicated that many signalling networks as  MAPK pathway, Androgen signaling, Insulin signaling and Immune signaling are regulated in peripheral blood of PCOS patients. The data indicate that there is generic PCOS specific gene expression in  peripheral blood of PCOS subjects which can reflect the same from other PCO tissues. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL10558 8 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE54nnn/GSE54248/
+Series		Accession: GSE54248	ID: 200054248
+
+7. TGFβ1 impairs the transcriptomic response to contraction in myotubes from women with polycystic ovary syndrome
+(Submitter supplied) Polycystic ovary syndrome (PCOS) is characterised by a hormonal imbalance affecting the reproductive and metabolic health of reproductive-aged women. Exercise is often recommended as a first-line therapy for women with PCOS to help improve their overall health however, women with PCOS are resistant to the metabolic benefits of exercise training. Here, we aimed to gain insight into the mechanisms responsible for such resistance to exercise in PCOS. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL24676 61 Samples
+FTP download: GEO (TSV, XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE199nnn/GSE199225/
+Series		Accession: GSE199225	ID: 200199225
+
+8. IGF2BP2-regulated alternative splicing of NFIC causes excessive granulosa cell proliferation in PCOS [RNA-seq]
+(Submitter supplied) The expression of IGF2BP2 in GCs from PCOS patients was detected using RT-qPCR and western blot. We captured IGF2BP2-interacting transcripts, global transcriptome together with alternative splicing by RNA immunoprecipitation sequencing (RIP-seq) and RNA sequencing (RNA-seq). KGN cells transfected with IGF2BP2 overexpressing plasmids and nuclear factor 1 C-type (NFIC) siRNAs, were applied to CCK-8, EdU and TUNEL assays. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL24676 6 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE191nnn/GSE191022/
+Series		Accession: GSE191022	ID: 200191022
+
+9. RNA-seq analysis of abdominal and gulteofemoral adipose derived stem cells isolated form PCOS and control women
+(Submitter supplied) RNA-seq experiments revealed an ABD-and GF-ASC selective gene expression signature between PCOS and control women.
+Organism:	Homo sapiens
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL16791 16 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE193nnn/GSE193812/
+Series		Accession: GSE193812	ID: 200193812
+
+10. Effects of androgen excess-related metabolic disturbances on granulosa cell function and follicular development
+(Submitter supplied) The purpose of this study was to explore the difference in transcript profiles between the ovarian granulosa cells from healthy women and women with polycystic ovary syndrome (PCOS). Quantitative reverse transcription polymerase chain reaction (qRT–PCR) was applied to validate results of RNA sequencing in the present study.
+Organism:	Homo sapiens
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL24676 6 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE193nnn/GSE193123/
+Series		Accession: GSE193123	ID: 200193123
+
+11. Identification of exosomal miRNAs specifically derived from intrafollicular cells involved in polycystic ovary syndrome
+(Submitter supplied) Exosomes have recently been shown to play a key role in cell-to-cell communication through delivery of various functional content, including microRNAs (miRNAs). We investigated the potential roles of exosomal miRNA derived intrafollicular cells in polycystic ovary syndrome (PCOS). Using microarray profiling, a total of 492 miRNAs and 220 miRNAs were found in follicular fluid-derived exosomes and serum-derived exosomes, respectively, in PCOS and non-PCOS females. more...
+Organism:	Homo sapiens
+Type:		Non-coding RNA profiling by array
+Platform: GPL21576 4 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE145nnn/GSE145318/
+Series		Accession: GSE145318	ID: 200145318
+
+12. Non-cell Autonomous Mechanisms Control Mitochondrial Gene Dysregulation in Polycystic Ovary Syndrome
+(Submitter supplied) The aim of this study was to gain further insight into the mechanisms leading to metabolic dysfunction in skeletal muscle in PCOS, and to determine whether primary myotubes retain the gene expression signature of PCOS in vivo. We investigated the transcriptomic profile of skeletal muscle tissue and primary myotube cultures from insulin resistant women with PCOS compared to healthy controls.
+Organism:	Homo sapiens
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL24676 24 Samples
+FTP download: GEO (TSV, XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE188nnn/GSE188740/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA780022
+Series		Accession: GSE188740	ID: 200188740
+
+13. Different gene expression profiles of granulosa cells in Chinese obese patients with or without polycystic ovary syndrome
+(Submitter supplied) Obese or polycystic ovary syndrome (PCOS) women have encountered poor reproductive outcomes in natural as well as assisted conception. Furthermore, pregnancy complications of women with PCOS are profoundly worsened by obesity. Both obesity and PCOS affect function of granulosa cells, which is essential in offering the oocyte with nutrients and growth regulators.
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL6244 16 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE80nnn/GSE80432/
+Series		Accession: GSE80432	ID: 200080432
+
+14. Aberrant expression of long noncoding RNAs in exosomes in follicle fluid from PCOS patients
+(Submitter supplied) Polycystic ovary syndrome (PCOS) is a common reproductive endocrine disease characterized by persistent anovulation and hyperandrogenism, affecting approximately 8%-10% of women of childbearing age and occupying an important position in the etiology of infertility. There is increasing evidence that lncRNAs are involved in the development of PCOS, but the potential regulatory mechanism is still unclear. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by high throughput sequencing; Non-coding RNA profiling by high throughput sequencing
+Platform: GPL16791 6 Samples
+FTP download: GEO (XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE159nnn/GSE159466/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA669010
+Series		Accession: GSE159466	ID: 200159466
+
+15. Multiomics analysis reveals molecular abnormalities in granulosa cells of women with polycystic ovary syndrome
+(Submitter supplied) Polycystic ovary syndrome (PCOS) is the most common complex endocrine and metabolic disease in women of reproductive age. It is characterized by anovulatory infertility, hormone disorders, and polycystic ovarian morphology. Regarding the importance of granulosa cells (GCs) in the pathogenesis of PCOS, few studies have investigated the etiology at a single “omics” level, such as with an mRNA expression array or methylation profiling assay, but this can provide only limited insights into the biological mechanisms. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by high throughput sequencing; Methylation profiling by high throughput sequencing; Non-coding RNA profiling by high throughput sequencing
+Platform: GPL16791 40 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE168nnn/GSE168404/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA707301
+Series		Accession: GSE168404	ID: 200168404
+
+16. Novel PGK1 determines AR stability dependent on Spk2 and reprograms granular cell glucose metabolism to facilitate ovulation dysfunction
+(Submitter supplied) Ovulation disorder is the main characteristic of polycystic ovary syndrome (PCOS), but the concrete molecular mechanism is unclear. Phosphoglycerate kinase 1 (PGK1) plays an important role in the process of glycolytic cycles. Androgen and androgen receptor (AR) are considered as one of the critical factors in the prevalence of hyperandrogenemia and follicular development, and whether PGK1 participates in the metabolic reaction via AR in PCOS remains vague. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL20795 6 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE146nnn/GSE146856/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA612177
+Series		Accession: GSE146856	ID: 200146856
+
+17. Next Generation Sequencing Analysis of exosomes in follicle fluid of PCOS/non-PCOS patients
+(Submitter supplied) Purpose: the goals of this study are to identify the transcriptome profiling of exosome derived from follicle fluid of PCOS patients by next-generation sequencing (NGS). Methods:the transcriptome profiling of exosome derived from follicular fluid of five PCOS and five control patients were generated by deep sequencing, using Illumina GAIIx. The sequence reads that passed quality filters were analyzed at the transcript isoform level with two methods: Burrows–Wheeler Aligner (BWA) followed by ANOVA (ANOVA) and TopHat followed by Cufflinks. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by high throughput sequencing; Non-coding RNA profiling by high throughput sequencing
+Platform: GPL20301 10 Samples
+FTP download: GEO (XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE145nnn/GSE145461/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA607262
+Series		Accession: GSE145461	ID: 200145461
+
+18. Comprehensive molecular features of polycystic ovary syndrome revealed by transcriptome analysis of oocytes and cumulus cells
+(Submitter supplied) We aimed to elucidate the molecular features and identify causative factors for PCOS through an integrated, transcriptomic analysis of oocytes and cumulus granulosa cells (GCs) from the same patients with PCOS
+Organism:	Homo sapiens
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL20795 20 Samples
+FTP download: GEO (CSV) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE155nnn/GSE155489/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA649934
+Series		Accession: GSE155489	ID: 200155489
+
+19. RNA-seq Data of Newly-Formed Adipocytes from Adipose Stem Cells of Normal-Weight Polycystic Ovary Syndrome Women vs. Controls
+(Submitter supplied) Normal-weight polycystic ovary syndrome (PCOS) women exhibit adipose tissue dysfunction in vivo accompanied by enhanced subcutaneous (SC) abdominal adipose stem cell (ASC) development to adipocytes with greater lipid accumulation per cell in vitro. The goal of this study was to determine whether this phenomenon is associated with abnormal adipogenic gene transcription using RNA-sequencing to examine differential transcription patterns in PCOS vs controls. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL20301 18 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE156nnn/GSE156067/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA656573
+Series		Accession: GSE156067	ID: 200156067
+
+20. Transcriptional analysis of non-fibrotic NAFLD progression
+(Submitter supplied) Background & Aims:  Non-alcoholic steatohepatitis (NASH), a subtype of non-alcoholic fatty liver disease (NAFLD) that can lead to fibrosis, cirrhosis, and hepatocellular carcinoma, is characterized by hepatic inflammation.  Despite evolving therapies aimed to ameliorate inflammation in NASH, the transcriptional changes that lead to inflammation progression in NAFLD remain poorly understood.  The aim of this study is to define transcriptional changes in early, non-fibrotic NAFLD using a biopsy-proven non-fibrotic NAFLD cohort. more...
+Organism:	blank sample; Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL28577 66 Samples
+FTP download: GEO (RCC) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE151nnn/GSE151158/
+Series		Accession: GSE151158	ID: 200151158
+
+21. Gene expression profile in human cumulus cells (CCs) during long-term in vitro culture
+(Submitter supplied) In the ovarian follicle, maturation of the oocyte increases in the presence of somatic cells called cumulus cells (CCs). These cells form a direct barrier between the oocyte and external environment. Thanks to bidirectional communication, they have a direct impact on the oocyte, its quality and development potential. Understanding the genetic profile of CCs appears to be important in elucidating the physiology of oocytes. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL13667 8 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE149nnn/GSE149033/
+Series		Accession: GSE149033	ID: 200149033
+
+22. Seminal plasma promotes decidualization of endometrial stromal fibroblasts from women with and without inflammatory disorders in a manner dependent on IL11 signaling
+(Submitter supplied) SP promotes decidualization of eSF from women with and without inflammatory disorders (polycystic ovarian syndrome (PCOS), endometriosis) in a manner that is not mediated through semen amyloids and that is associated with a potent transcriptional response including induction of IL11, a cytokine important for SP-induced decidualization.
+Organism:	Homo sapiens
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL11154 45 Samples
+FTP download: GEO (XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE135nnn/GSE135640/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA559534
+Series		Accession: GSE135640	ID: 200135640
+
+23. Long noncoding RNA expression profiles in granulosa cells from PCOS patients and women with normal ovarian reserve
+(Submitter supplied) LncRNAs and mRNAs profiling of gonadotropin-stimulated granulosa cells from PCOS patients and controls (women with normal ovarian reserve)
+Organism:	Homo sapiens
+Type:		Non-coding RNA profiling by array
+Platform: GPL16956 14 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE95nnn/GSE95728/
+Series		Accession: GSE95728	ID: 200095728
+
+24. Expression profiling of circular RNA in the cumulus cells of patients with polycystic ovary syndrome
+(Submitter supplied) Polycystic ovary syndrome (PCOS) is the most common and heterogeneous endocrine disorder in women of reproductive age.Depending on different criteria and populations,the prevalence of PCOS ranges from 6 to 8% with the NIH criteria,  and up to 20% with the Rotterdam criteria.Further, it accounts for approximately 75% of anovulatory infertility.Circular RNAs (circRNAs) mediate the posttranscriptional regulation of multiple genes by functioning as microRNA (miRNA) sponges. more...
+Organism:	Homo sapiens
+Type:		Non-coding RNA profiling by array
+Platform: GPL28148 12 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE145nnn/GSE145296/
+Series		Accession: GSE145296	ID: 200145296
+
+25. Gene expression profile in endometrial organoids cultured in normal follicular phase vs PCOS-like hormone profile
+(Submitter supplied) We generated scaffold-free endometrial organoids from human primary endometrial tissues. These organoids were subjected to stepwise hormone treatments for 14 days mimicking the proliferative phase of menstrual cycle or with constantly high testosterone mimicking PCOS conditions
+Organism:	Homo sapiens
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL20301 8 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE128nnn/GSE128328/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA527131
+Series		Accession: GSE128328	ID: 200128328
+
+26. Transcriptome Profiling Reveals the key genes and pathways involved in polycystic ovary syndrome [RNA-seq]
+(Submitter supplied) Aberration in miRNA expression or DNA methylation is a causal factor for numerous pathological conditions including polycystic ovarian syndrome PCOS, a common endocrine disorders and leading cause of infertility. The epigenetic interactions between miRNA and DNA methylation remain unexplored in PCOS. Few studies have reported that the key genes and pathways involved in polycystic ovary syndrome(PCOS). more...
+Organism:	Homo sapiens
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL11154 6 Samples
+FTP download: GEO (XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE138nnn/GSE138518/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA576231
+Series		Accession: GSE138518	ID: 200138518
+
+27. Differential messenger RNA expression in Granulosa Cells from polycystic ovary syndrome with Normoandrogen and Hyperandrogen: Identification of gene sets through bioinformatic Filtering analysis
+(Submitter supplied) PCOS is a widespread disease that primarily caused in-pregnancy in pregnant-age women. Normoandrogen (NA) and Hyperandrogen (HA) PCOS are distinguished under distinct level of testosterone, while markers and expression patterns for both subtypes were not adequately studied. Text-mining analysis stated the correlation for PCOS with granusola cells and thus we performed microarray analysis on granusola cells from HA PCOS, NA PCOS and normal tissue from individuals, and afterwards downloaded RNA-seq and microarray data from NCBI GEO database on granusola cells from PCOS and normal ovary. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL17077 12 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE137nnn/GSE137684/
+Series		Accession: GSE137684	ID: 200137684
+
+28. Coding and Non-coding gene expression signatures of endometrium from Polycystic Ovary Syndrome Patients
+(Submitter supplied) Polycystic ovary syndrome (PCOS), one of the most common endocrinal diseases among reproductive-aged women, is characterized by hyperandrogenemia, chronic oligo/anovulation and polycystic ovarian morphology. In this research, we presented microarrays to identify the differential expressed protein-coding genes and lncRNAs expression profile in the endometrium during the window of implantation between the PCOS and healthy subjects.
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL17586 6 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE137nnn/GSE137354/
+Series		Accession: GSE137354	ID: 200137354
+
+29. Epigenetic reprogramming of immune cells in women with PCOS impact genes controlling reproductive function [RNAseq]
+(Submitter supplied) Transcriptomic and genome-wide DNA methylation was performed on T helper cells using RNA-sequencing and Reduced Representation Bisulfite Sequencing, respectively. Specific genome-wide DNA methylation analysis of T helper cells from women with PCOS identified 5,581 differentially methylated CpG sites. Interestingly, functional gene ontology enrichment analysis showed that genes located at the proximity of differentially methylated CpG sites belong to pathways related to reproductive function and immune cell function. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL18573 11 Samples
+FTP download: GEO (TSV) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE130nnn/GSE130580/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA540679
+Series		Accession: GSE130580	ID: 200130580
+
+30. Gene expression profile in human ovarian granulosa cells during long-term in vitro culture
+(Submitter supplied) Granulosa cells (GCs) have many endocrine functions. However, in long-term in vitro culture GCs can change their properties. GCs were collected from hyper-stimulated ovarian follicles from woman during IVF procedures. They were cultured in in vitro long-term culture. RNA was collected after 1, 7, 15 and 30 days of culture. Expression microarrays were used for analysis, which allowed to identify groups of genes characteristic for particular cellular processes. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL13667 8 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE129nnn/GSE129919/
+Series		Accession: GSE129919	ID: 200129919
+
+31. Alternative Splicing Variants of Androgen Receptor Altered insulin resistance Gene expression in Human Ovarian Granulosa Cell
+(Submitter supplied) Polycystic ovary syndrome (PCOS) is a complex endocrine disorder, of which the morbidity among women aging from 18 to 44 years old can be as high as 10%. Insulin resistance is an important characteristic of PCOS and affects approximately 65-70% of women with PCOS. Our previous work identified two AR alternative splicing variants (ASVs) in human granulosa cells (hGCs), Insertion (Ins) and deletion (Del) isoforms, takes up 62% of PCOS specifically. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by RT-PCR
+Platform: GPL24590 6 Samples
+FTP download: GEO (XLS) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE110nnn/GSE110252/
+Series		Accession: GSE110252	ID: 200110252
+
+32. Gene Expression Data of Adipose Stem Cells from Normal-Weight Polycystic Ovary Syndrome Women vs. Controls
+(Submitter supplied) In vitro studies of subcutaneous (SC) abdominal adipose stem cells (ASC) from women with polycystic ovary syndrome (PCOS) show altered ASC commitment to preadipocytes and differentiation to mature adipocytes related to hyperandrogenism. The goal of the study is to use microarrays to examine whether SC abdominal ASC gene expression are altered in normal-weight PCOS women and correlated with hyperandrogenemia and/or insulin resistance, which are prevalent clinical pathologies of PCOS.
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL570 8 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE124nnn/GSE124226/
+Series		Accession: GSE124226	ID: 200124226
+
+33. small RNA and mRNA sequencing data of human granulosa cells from PCOS women with insulin resistance
+(Submitter supplied) Our objective was to identify the miRNA and mRNA expression profiles in PCOS women with or without insulin resistance.
+Organism:	Homo sapiens
+Type:		Expression profiling by high throughput sequencing; Non-coding RNA profiling by high throughput sequencing
+Platform: GPL18573 4 Samples
+FTP download: GEO (XLSX) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE124nnn/GSE124968/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA514719
+Series		Accession: GSE124968	ID: 200124968
+
+34. Coding and Non-coding gene expression signatures of granulosa cells from Polycystic Ovary Syndrome Patients
+(Submitter supplied) Polycystic ovary syndrome (PCOS), one of the most common endocrinal diseases among reproductive-aged women,is characterized by hyperandrogenemia, chronic oligo/anovulation and polycystic ovarian morphology. In this research, we presented microarrays to identify the differential expressed protein-coding genes and lncRNAs expression profile in the luteinized granulosa cells obtained from PCOS and healthy control patients.
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL17586 6 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE114nnn/GSE114419/
+Series		Accession: GSE114419	ID: 200114419
+
+35. Microarray expression data derived  from ovaries of women with Polycystic Ovary Syndrome and Female to Male Transexual individuals after treatment with Testosterone
+(Submitter supplied) This microarray analysis identified differentially regulated expression of 326 genes (p value=<0.05 and fold change of +/-2). Based on these genes, a biological LH network was generated consisting molecules where the significance of the association was measured by Fisher's exact test. We used microarray gene expression analysis to dissect the LH-induced gene expression in the ovaries of PCOS women.
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platforms: GPL96 GPL97 36 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE87nnn/GSE87435/
+Series		Accession: GSE87435	ID: 200087435
+
+36. AKR1C3-mediated adipose androgen generation fuels an adverse metabolic phenotype in polycystic ovary syndrome (PCOS)
+(Submitter supplied) RNA-seq samples used to support a study into understanding of the association between androgens and adipose tissue
+Organism:	Homo sapiens
+Type:		Expression profiling by high throughput sequencing
+Platform: GPL16791 53 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE84nnn/GSE84958/
+SRA Run Selector: https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA335816
+Series		Accession: GSE84958	ID: 200084958
+
+37. Expression profiles of lncRNAs and mRNAs in KGN/shPWRN2 cell lines
+(Submitter supplied) In this study, to identify the target genes of PWRN2, we first constructed lentivirus shRNA vectors to infect the KGN cell lines to gain three KGN/shPWRN2 cell lines with down-regulated PWRN2 expression levels. Then, the expression profiles of mRNAs and lncRNAs in KGN/shPWRN2 cells were determined by microarray. The results revealed thousands of lncRNAs and mRNAs expressed in KGN/shPWRN2. The expression of 176 lncRNAs significantly changed in KGN/shPWRN2 cell lines relative to control NC cell lines. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by array; Non-coding RNA profiling by array
+Platform: GPL20115 6 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE97nnn/GSE97772/
+Series		Accession: GSE97772	ID: 200097772
+
+38. Profiles for long noncoding RNAs in ovarian granulosa cells from polycystic ovary syndrome patients with different serum concentrations of androgen
+(Submitter supplied) Polycystic ovary syndrome (PCOS) is a common reproductive system disease, with hyperandrogenism as the core feature. The pathologies remain to be illustrated.  Long noncoding RNAs (lncRNAs) has been proved to be involved in various biological processes of human diseases. However, there were few reports about the research on lncRNAs in PCOS, not to mention hyperandrogenism.
+Organism:	Homo sapiens
+Type:		Expression profiling by array; Non-coding RNA profiling by array
+Platform: GPL21096 12 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE106nnn/GSE106724/
+Series		Accession: GSE106724	ID: 200106724
+
+39. Cabergoline-treated lutein granulosa cells from polycystic ovarian syndrome (PCOS) patients exhibit higher transcriptomic response than cabergoline-treated controls
+(Submitter supplied) This study assessed the transcriptomic profiles of lutein granulosa cells (LGCs) from women with and without PCOS using Affymetrix microarray chips to provide novel information about the molecular changes that occur in these cells when they are treated with a D2-ag (Cb2) and to assess the signal transduction pathways regulated by this treatment. Transcriptomic analysis, using Affimetrix Human 1.0ST. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL6244 16 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE98nnn/GSE98595/
+Series		Accession: GSE98595	ID: 200098595
+
+40. Enhanced Inflammatory Transcriptome in the Granulosa Cells of Women With Polycystic Ovarian Syndrome
+(Submitter supplied) Context: Polycystic ovarian syndrome (PCOS), the most common endocrine disorder of reproductive-  aged women, is associated with systemic low-grade inflammation.  Objective: We propose that increased or altered intrafollicular inflammatory reactions also occur  in periovulatory follicles of PCOS patients.  Design: Gene profiling and quantitative PCR (qPCR) analyses in granulosa-lutein cells (GCs) collected  from PCOS and non-PCOS women undergoing in vitro fertilization were compared with  serum and follicular fluid (FF) levels of cytokines and chemokines. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL570 6 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE102nnn/GSE102293/
+Series		Accession: GSE102293	ID: 200102293
+
+41. Expression data from subcutaneous adipose tissue of lean polycystic ovary syndrome (PCOS) and normoandrogenic women
+(Submitter supplied) Lean polycystic ovary syndrome (PCOS) women have a greater proportion of android (abdominal) fat, increased numbers of small subcutaneous (SC) abdominal adipocytes and preferential intra-abdominal fat accumulation. This study examines whether abnormal gene expression of SC abdominal adipose stem cells (ASCs) from lean PCOS women underlies this altered abdominal adipose structure-function. In this dataset, we include the expression data obtained from PCOS and NL subcutaneous adipose tissue. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL570 8 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE98nnn/GSE98421/
+Series		Accession: GSE98421	ID: 200098421
+
+42. The peripheral blood transcriptome identifies dysregulation of inflammatory response genes in polycystic ovary syndrome
+(Submitter supplied) Polycystic ovary syndrome (PCOS) is a common endocrine disorder in women resulting in ovulation failure and other metabolic problems. However, the underlying mechanisms of it remain largely uncertain due to its complexity of clinical manifestations. Since PCOS is believed as a systemic disorder involved endocrine, metabolism, immune system and many organs, we therefore want to know what happen in the peripheral blood of patients with PCOS. more...
+Organism:	Homo sapiens
+Type:		Non-coding RNA profiling by array
+Platform: GPL22361 16 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE85nnn/GSE85932/
+Series		Accession: GSE85932	ID: 200085932
+
+43. The Role of Serum MicroRNA-6767-5p as a Biomarker for the Diagnosis of Polycystic Ovary Syndrome
+(Submitter supplied) To examine the role of the serum miRNA as a biomarker for the diagnosis of PCOS and its relationship with metabolic and reproductive traits
+Organism:	Homo sapiens
+Type:		Non-coding RNA profiling by array
+Platform: GPL21575 17 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE86nnn/GSE86241/
+Series		Accession: GSE86241	ID: 200086241
+
+44. DNA methylation profiling of polycystic ovarian syndrome (PCOS)
+(Submitter supplied) Genome-wide DNA methylation analysis on PCOS using Illumina HumanMethylation 450K BeadChips in 30 PCOS patients and 30 healthy controls
+Organism:	Homo sapiens
+Type:		Methylation profiling by genome tiling array
+Platform: GPL13534 60 Samples
+FTP download: GEO (IDAT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE80nnn/GSE80468/
+Series		Accession: GSE80468	ID: 200080468
+
+45. Identification miRNA expression profiles of human granulosa cells obtained from PCOS patients and control individuals
+(Submitter supplied) The miRNA expression profiles of mural granulosa cells (MGCs) which were obtained from PCOS patients and control individuals were identified and compared.
+Organism:	Homo sapiens; synthetic construct
+Type:		Non-coding RNA profiling by array
+Platform: GPL16384 28 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE84nnn/GSE84376/
+Series		Accession: GSE84376	ID: 200084376
+
+46. Altered microRNA profiles in cumulus cells isolated from PCOS patients
+(Submitter supplied) To identify the altered miRNA expression profiles of PCOS patients, the differentially expressed miRNAs were identified from cumulus cells of PCOS patients by comparing to that of normal women.
+Organism:	Homo sapiens
+Type:		Non-coding RNA profiling by array
+Platform: GPL16543 10 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE72nnn/GSE72274/
+Series		Accession: GSE72274	ID: 200072274
+
+47. LncRNAs expression signatures of cumulus cells isolated from PCOS patients revealed by microarray
+(Submitter supplied) Our study is the first one to determine genome-wide lncRNAs expression patterns in cumulus cells of PCOS patients by microarray. The results displayed that clusters of lncRNAs (n=623) were aberrantly expressed in PCOS patients compared with non-PCOS patients. Many differentially expressed lncRNAs were transcribed from regions on chromosome 2 and classified into enhancer-like lncRNA subgroup. XLOC_011402 (PWRN2) was found for the first time that it was not only expressed in testis but also in cumulus cells. more...
+Organism:	Homo sapiens
+Type:		Non-coding RNA profiling by array
+Platform: GPL19748 10 Samples
+FTP download: GEO (TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE65nnn/GSE65746/
+Series		Accession: GSE65746	ID: 200065746
+
+48. miRNAs expression profile of the cumulus cell samples with PCOS and non-PCOS
+(Submitter supplied) To reveal microRNAs expression differences in cumulus cells between polycystic ovary syndrome (PCOS) and non-PCOS women. miRNAs expression profile of the cumulus cell samples with PCOS and non-PCOS were determined by Affymetrix miRNA 2.0.
+Organism:	synthetic construct; Homo sapiens
+Type:		Non-coding RNA profiling by array
+Platform: GPL14613 6 Samples
+FTP download: GEO (CEL, TXT) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE68nnn/GSE68285/
+Series		Accession: GSE68285	ID: 200068285
+
+49. Identification of microRNA profiling of human ovary in PCOS with insulin resistance (pilot study)
+(Submitter supplied) Polycystic ovary syndrome (PCOS) is the most common endocrine disorder in women of reproductive age. It has become increasingly evident that insulin resistance plays a significant role both as a cause and result of the syndrome. In an effort to investigate further the observed insulin resistance in the ovarian tissue of women with PCOS, we conducted array-based, global miRNA profiling.
+Organism:	Rattus norvegicus; Murid gammaherpesvirus 4; Betapolyomavirus hominis; JC polyomavirus; Human gammaherpesvirus 8; Betapolyomavirus macacae; Homo sapiens; Mus musculus; Human alphaherpesvirus 1; Human betaherpesvirus 5; Murid betaherpesvirus 1; Human gammaherpesvirus 4; Human immunodeficiency virus 1
+Type:		Non-coding RNA profiling by array
+Platform: GPL7723 1 Sample
+FTP download: GEO (GPR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE28nnn/GSE28832/
+Series		Accession: GSE28832	ID: 200028832
+
+50. Subcutaneous adipose tissue gene expression in PCOS
+(Submitter supplied) This SuperSeries is composed of the SubSeries listed below.
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL15362 31 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE43nnn/GSE43322/
+Series		Accession: GSE43322	ID: 200043322
+
+51. scAT gene expression from women with PCOS following LC n-3 PUFA or placebo supplementation
+(Submitter supplied) Gene expresion profiles from the scAT following 6 week LC n-3 PUFA and 6 week placebo supplementation were compared Women with PCOS were supplemented with 4g n-3 PUFA (containing 1.8g EPA and DHA) daily for 6 weeks and changes in subcutaneous adipose tissue gene expression was compared with 6 week placebo supplementation.
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL15362 16 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE43nnn/GSE43266/
+Series		Accession: GSE43266	ID: 200043266
+
+52. Subcutaneous adipose tissue gene expression in PCOS, compared with age and BMI-matched healthy controls
+(Submitter supplied) Subcutaneous adipose tissue gene expression profiles from women with PCOS, compared with age and BMI matched healthy controls (matched at group-level).
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL15362 15 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE43nnn/GSE43264/
+Series		Accession: GSE43264	ID: 200043264
+
+53. Differential genes in adipocytes induced from polycystic ovary syndrome-derived and non- polycystic ovary syndrome-derived human embryonic stem cells
+(Submitter supplied) To explore the molecular mechanisms of obesity and insulin resistance in the patients with polycystic ovary syndrome (PCOS) at the level of human embryonic stem cells (hESCs).Three PCOS-derived and one non-PCOS-derived hESC lines were induced into adipocytes, and then total mRNA was extracted from these adipocytes. The differential genes between PCOS-derived and non-PCOS-derived adipocytes were identified with GeneChip, and then were validated with real-time PCR.There were 153 differential genes. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL17938 3 Samples
+FTP download: GEO (LSR) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE52nnn/GSE52422/
+Series		Accession: GSE52422	ID: 200052422
+
+54. Mesenchymal Stem/Progenitors and Other Endometrial Cell Types from Women with Polycystic Ovary Syndrome (PCOS) Display Inflammatory and Oncogenic Potential
+(Submitter supplied) Context: Endometrium in polycystic ovary syndrome (PCOS) presents altered gene expression indicating progesterone resistance and predisposing to reduced endometrial receptivity and endometrial cancer.  Objective: We hypothesized that an altered endocrine/metabolic environment in PCOS may result in an endometrial “disease phenotype” affecting the gene expression of different endometrial cell populations, including stem cells and their differentiated progeny. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Dataset: GDS4987 Platform: GPL6244 29 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE48nnn/GSE48301/
+Series		Accession: GSE48301	ID: 200048301
+
+55. Expression data from human cumulus cells isolated from oocytes at MI and MII stages in polycystic ovary syndrome (PCOS) patients
+(Submitter supplied) Polycystic ovary syndrome (PCOS) is a common endocrine and metabolic disorder that is characterized by increased circulating androgen levels, anovulatory infertility, and frequently, insulin resistance and hyperinsulinemia.The abnormity of oocyte nuclear maturity is the main reason for anovulatory infertility and pregnancy loss in PCOS patients.The bidirectional exchanges between oocyte and contiguous CCs are important for oocyte competence acquisition, early embryonic development and CC expansion.Gene expression profiles of CCs has been suggested to predict embryo development and pregnancy outcome. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL570 6 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE40nnn/GSE40400/
+Series		Accession: GSE40400	ID: 200040400
+
+56. Pathways leading to phosphorylation of p450c17 and to the post-translational regulation of androgen biosynthesis
+(Submitter supplied) Cytochrome P450c17 (P450c17) is the single enzyme that catalyzes steroid 17alpha-hydroxylase and 17,20 lyase activities and hence is the crucial decision-making step that determines the class of steroid made in a steroidogenic cell. Although both activities are catalyzed on a single active site, the ratio of these activities is regulated by posttranslational events. Serine phosphorylation of P450c17 increases 17,20 lyase activity by increasing the enzyme's affinity for its redox partner, P450 oxidoreductase. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL571 6 Samples
+FTP download: GEO ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE44nnn/GSE44311/
+Series		Accession: GSE44311	ID: 200044311
+
+57. Differential Gene Expression in Granulosa Cells from Polycystic Ovary Syndrome Patients with and without Insulin Resistance:  Identification of Susceptibility Gene Sets through Network Analysis
+(Submitter supplied) Polycystic ovary Syndrome (PCOS) is a heterogeneous endocrine disorder that shows evidence of genetic predidposition among affected individuals. We have utilized the Microarray data from  granulosa cells of normal and PCOS women for network construction.
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Dataset: GDS4399 Platform: GPL570 10 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE34nnn/GSE34526/
+Series		Accession: GSE34526	ID: 200034526
+
+58. miRNA expression data from lean PCOS adipose vs BMI matched control women
+(Submitter supplied) Why ~70% of women with polycystic ovary syndrome (PCOS) have intrinsic insulin resistance (IR), above and beyond that associated with body mass, including dysfunctional glucose metabolism in adipose tissue (AT), remains a fundamental question. In these experiments, we sought to explore the role of miRNAs in the AT of PCOS and matched controls. Analysis determined that PCOS AT has a differentially expressed miRNA profile, including upregulated miR-93. more...
+Organism:	synthetic construct; Homo sapiens
+Type:		Non-coding RNA profiling by array
+Platform: GPL8786 6 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE37nnn/GSE37914/
+Series		Accession: GSE37914	ID: 200037914
+
+59. Gene expression profiling in skeletal muscle of PCOS after pioglitazone therapy
+(Submitter supplied) Insulin resistance is a common metabolic abnormality in women with PCOS and leads to an elevated risk of type 2 diabetes. Studies have shown that thiazolidinediones (TZD) improve metabolic disturbances in PCOS patients. We hypothesized that the effect of TZD in PCOS is in part mediated by changes in the transcriptional profile of muscle favoring insulin sensitivity.  Using Affymetrix microarrays, we examined the effect of pioglitazone (30 mg/day for 16 weeks) on gene expression in skeletal muscle of 10 obese women with PCOS metabolically characterized by a euglycemic-hyperinsulinemic clamp. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Datasets: GDS4132 GDS4133 Platform: GPL570 43 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE8nnn/GSE8157/
+Series		Accession: GSE8157	ID: 200008157
+
+60. Gene expression microarray profiles of cumulus cells in lean and overweight-obese polycystic ovary syndrome patients
+(Submitter supplied) Objective: The etiology of PCOS is mostly unknown. Existing data support both genetic and environmental factors in its pathogenesis.  Design: Prospective case - control study. Setting: University Hospital. Patients:  25 patients undergoing IVF-ICSI treatment.  Intervention: Genome-wide oligonucleotide microarray technology was used to study differential gene-expression patterns of cultured human cumulus cells from IVF patients divided into 4 groups according to disease state (PCOS vs. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Dataset: GDS3841 Platform: GPL570 23 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE10nnn/GSE10946/
+Series		Accession: GSE10946	ID: 200010946
+
+61. Reduced expression of mitochondrial oxidative metabolism genes in skeletal muscle of women with PCOS
+(Submitter supplied) Recently, abnormalities in mitochondrial oxidative phosphorylation (OXPHOS) have been implicated in the pathogenesis of skeletal muscle insulin resistance in type 2 diabetes. In the present study, we hypothesized that decreased expression of OXPHOS genes could be of similar importance for insulin resistance in the polycystic ovary syndrome (PCOS). Using the HG-U133 Plus 2.0 expression array from Affymetrix, we analyzed gene expression in skeletal muscle from obese women with PCOS (n=16) and age- and body mass index-matched control women (n=13) metabolically characterized by euglycemic-hyperinsulinemic clamp and indirect calorimetry. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Dataset: GDS3104 Platform: GPL570 29 Samples
+FTP download: GEO (CEL) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE6nnn/GSE6798/
+Series		Accession: GSE6798	ID: 200006798
+
+62. Microarray analysis of NL and PCOS oocytes
+(Submitter supplied) Polycystic ovary syndrome (PCOS), the most common cause of anovulatory infertility, is characterized by increased ovarian androgen production, arrested follicle development, and is frequently associated with insulin resistance.  These PCOS phenotypes are associated with exaggerated ovarian responsiveness to FSH and increased pregnancy loss.  To examine whether the perturbations in follicle growth and the intrafollicular environment affects development of the mature PCOS oocyte, genes that are differentially expressed in PCOS compared to normal oocytes were defined using microarray analysis. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Platform: GPL570 12 Samples
+FTP download: GEO (CEL, EXP) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE5nnn/GSE5850/
+Series		Accession: GSE5850	ID: 200005850
+
+63. PCOS patients vs control subjects
+(Submitter supplied) This experiment was designed to study if there are differences in gene expression in the adipose tissue of women affected by polycystic ovary syndrome (PCOS) compared to non-hyperandrogenic women. PCOS is the most common endocrinopathy in women of reproductive age, and is characterized by hyperandrogenism and chronic anovulation. This disease is frequently associated with obesity, insulin resistance, and defects in insulin secretion, predisposing these women to type 2 diabetes, atherosclerosis, and cardiovascular disease. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Dataset: GDS2084 Platform: GPL96 17 Samples
+FTP download: GEO (CEL, EXP) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE5nnn/GSE5090/
+Series		Accession: GSE5090	ID: 200005090
+
+64. Theca cell gene expression
+(Submitter supplied) Polycystic ovary syndrome (PCOS) is a common endocrine and metabolic disorder that affects 5-10% of reproductive aged women.  The hallmark characteristic of PCOS is increased ovarian androgen synthesis.  Previous studies by our laboratory demonstrated that increased androgen synthesis is a stable biochemical phenotype of PCOS theca cells which are the primary source of ovarian androgen production.  The increase in theca cell steroidogenesis was due to an increase in expression of several steroidogenic enzymes including CYP17 and CYP11A but not StAR. more...
+Organism:	Homo sapiens
+Type:		Expression profiling by array
+Datasets: GDS1050 GDS1051 Platforms: GPL96 GPL97 26 Samples
+FTP download: GEO (CEL, EXP) ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE1nnn/GSE1615/
+Series		Accession: GSE1615	ID: 200001615
